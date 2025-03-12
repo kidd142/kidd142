@@ -13,7 +13,7 @@
 
 - 💼 I'm currently working on: **💻 Nodejs, Python & Typescript ❤️ projects.**
 - 🌱 I'm currently learning: **📚 Nodejs & Phyton.**
-- 💬 Ask me about: **💡 Actually DONT ASK ME AYTHING!**
+- 💬 Ask me about: **💡 Actually DONT ASK ME ANYTHING!**
 - ⚡ Fun fact: **🎢 Nothing!**
 ---
 **<h3 align="left">Skills</h3>**
