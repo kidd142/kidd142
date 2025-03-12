@@ -12,9 +12,9 @@
 
 💬 Ask me about **anything**
 
-📫 How to reach me **kddvps@gmail.com**
+📫 **Reach me on Telegram** [@kidd142](https://t.me/kidd142)
 
-⚡ Fun fact **I am doing it just for hobby and money of course**
+⚡ Fun fact **I am doing it just for hobby**
 
 
 ## 🌐 Socials:
