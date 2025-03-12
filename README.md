@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kidd142</h1>
+<h1 align="center">Hi👋I'm Kidd142</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kidd142&label=Profile%20views&color=0e75b6&style=flat" alt="kidd142" /> </p>
@@ -14,7 +14,7 @@
 
 📫 How to reach me **kddvps@gmail.com**
 
-⚡ Fun fact **I am doing it for money of course**
+⚡ Fun fact **I am doing it just for hobby and money of course**
 
 
 ## 🌐 Socials:
