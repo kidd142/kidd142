@@ -6,15 +6,15 @@
 
 <p align="center"> <a href="https://twitter.com/kidd1422" target="blank"><img src="https://img.shields.io/twitter/follow/kidd1422?logo=twitter&style=for-the-badge" alt="kidd1422" /></a> </p>
 
-- 🔭 I’m currently working on **Web3 Development Industry**
+🔭 I’m currently working on **Web3 Development Industry**
 
-- 🌱 I’m currently learning **TypeScript, Python, and Nodejs**
+🌱 I’m currently learning **TypeScript, Python, and Nodejs**
 
-- 💬 Ask me about **anything**
+💬 Ask me about **anything**
 
-- 📫 How to reach me **kddvps@gmail.com**
+📫 How to reach me **kddvps@gmail.com**
 
-- ⚡ Fun fact **I am doing it for money of course**
+⚡ Fun fact **I am doing it for money of course**
 
 
 ## 🌐 Socials:
