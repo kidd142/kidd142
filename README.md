@@ -2,7 +2,6 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=kidd142&label=Profile%20views&color=0e75b6&style=flat)
 
 **<h3 align="center">Reach me :</h3>** 
 <p align="center"><a href="https://github.com/kidd142" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="kddvps@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/kidd1422" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
@@ -13,8 +12,6 @@
 
 - 💼 I'm currently working on: **💻 Nodejs, Python & Typescript ❤️ projects.**
 - 🌱 I'm currently learning: **📚 Nodejs & Phyton.**
-- 💬 Ask me about: **💡 Actually DONT ASK ME ANYTHING!**
-- ⚡ Fun fact: **🎢 Nothing!**
 ---
 **<h3 align="left">Skills</h3>**
 
